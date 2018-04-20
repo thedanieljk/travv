@@ -3,7 +3,7 @@ sudo: false
 install: true
 addons:
   sonarcloud:
-    organization: 07e13fa48d6f3c15d0f779f188909f21b2525b56
+    organization: thedanieljk-github
     token:
       secure: 07e13fa48d6f3c15d0f779f188909f21b2525b56
 jdk:
